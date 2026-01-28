@@ -29,15 +29,3 @@ section {
   text-align: center;
   transition: 0.3s;
 }
-
-.icon-box:hover {
-  background: #e9ecef;
-  transform: translateY(-5px);
-}
-
-footer {
-  background: #1e3c72;
-  color: white;
-  text-align: center;
-  padding: 20px 0;
-}
